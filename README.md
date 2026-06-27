@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working at Tata Consultancy Services as an DevOps Engineer
+- 🔭 I’m currently working at Optimum InfoSystems Pvt Ltd as an DevOps Engineer
 - 🌱 DevOps enthusiast with a focus on automation, containerization (Docker), and orchestration (Kubernetes). I'm also passionate about Python, including advanced techniques and libraries. Looking to contribute to a team where I can apply these skills to solve real-world problems.
 - 👯 I’m looking to collaborate on Python and DevOps
 <!-- - 🤔 I’m looking for help with ... -->
